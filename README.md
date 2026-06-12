@@ -132,10 +132,6 @@ python frontend/dashboard.py
 * Deploy the application on cloud platforms.
 * Improve keyword filtering to reduce irrelevant news results.
 
-## Screenshots
-
-*Add dashboard screenshots here.*
-
 ## Author
 
 **Aishvarya V**
