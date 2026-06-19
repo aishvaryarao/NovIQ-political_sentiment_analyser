@@ -1,4 +1,4 @@
-# Political Sentiment Dashboard
+# NovIQ Political Sentiment Dashboard
 
 A real-time political sentiment analysis dashboard that fetches live news headlines, analyzes sentiment using Natural Language Processing (NLP), stores results in MySQL, and visualizes sentiment trends through an interactive dashboard.
 
